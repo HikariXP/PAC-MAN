@@ -1,0 +1,3108 @@
+fileFormatVersion: 2
+guid: c6648c59f7eecee41a1e002cbd1fe416
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4029897694096365833
+    second: PACMAN-Character-Sprite_0
+  - first:
+      213: 8730504132941749543
+    second: PACMAN-Character-Sprite_1
+  - first:
+      213: -3223353663602104421
+    second: PACMAN-Character-Sprite_2
+  - first:
+      213: -8394442653290250532
+    second: PACMAN-Character-Sprite_3
+  - first:
+      213: 5530408986360151331
+    second: PACMAN-Character-Sprite_4
+  - first:
+      213: 4222514623935135987
+    second: PACMAN-Character-Sprite_5
+  - first:
+      213: -5449320778970752404
+    second: PACMAN-Character-Sprite_6
+  - first:
+      213: -6815758945457452747
+    second: PACMAN-Character-Sprite_7
+  - first:
+      213: 8166254350645162433
+    second: PACMAN-Character-Sprite_8
+  - first:
+      213: -8329427594205107365
+    second: PACMAN-Character-Sprite_9
+  - first:
+      213: 2841030255783939956
+    second: PACMAN-Character-Sprite_10
+  - first:
+      213: -4112644974800465832
+    second: PACMAN-Character-Sprite_11
+  - first:
+      213: 5576498496663601119
+    second: PACMAN-Character-Sprite_12
+  - first:
+      213: 2318147714679987366
+    second: PACMAN-Character-Sprite_13
+  - first:
+      213: -5895403517581551162
+    second: PACMAN-Character-Sprite_14
+  - first:
+      213: -4880827775092235063
+    second: PACMAN-Character-Sprite_15
+  - first:
+      213: -2582341956871322133
+    second: PACMAN-Character-Sprite_16
+  - first:
+      213: 3625430684379345098
+    second: PACMAN-Character-Sprite_17
+  - first:
+      213: -3173842797005752752
+    second: PACMAN-Character-Sprite_18
+  - first:
+      213: 516050748387449683
+    second: PACMAN-Character-Sprite_19
+  - first:
+      213: -4132353714391123581
+    second: PACMAN-Character-Sprite_20
+  - first:
+      213: -7084908435128891666
+    second: PACMAN-Character-Sprite_21
+  - first:
+      213: -3008483404259503111
+    second: PACMAN-Character-Sprite_22
+  - first:
+      213: -2103939726829694530
+    second: PACMAN-Character-Sprite_23
+  - first:
+      213: -7714013984109247727
+    second: PACMAN-Character-Sprite_24
+  - first:
+      213: 7487159259376516810
+    second: PACMAN-Character-Sprite_25
+  - first:
+      213: -2032587561762411373
+    second: PACMAN-Character-Sprite_26
+  - first:
+      213: 6699132957606590111
+    second: PACMAN-Character-Sprite_27
+  - first:
+      213: 1381016078258089547
+    second: PACMAN-Character-Sprite_28
+  - first:
+      213: -1561190212761002678
+    second: PACMAN-Character-Sprite_29
+  - first:
+      213: 5627227920199232179
+    second: PACMAN-Character-Sprite_30
+  - first:
+      213: 4915375871184289820
+    second: PACMAN-Character-Sprite_31
+  - first:
+      213: 6917617097402314855
+    second: PACMAN-Character-Sprite_32
+  - first:
+      213: 8076846029363765032
+    second: PACMAN-Character-Sprite_33
+  - first:
+      213: -146320593527068514
+    second: PACMAN-Character-Sprite_34
+  - first:
+      213: 2941894200833987494
+    second: PACMAN-Character-Sprite_35
+  - first:
+      213: -1284439609154442280
+    second: PACMAN-Character-Sprite_36
+  - first:
+      213: 5277920343593294200
+    second: PACMAN-Character-Sprite_37
+  - first:
+      213: 1788203685121318021
+    second: PACMAN-Character-Sprite_38
+  - first:
+      213: -906591202684119272
+    second: PACMAN-Character-Sprite_39
+  - first:
+      213: 3041858272962955688
+    second: PACMAN-Character-Sprite_40
+  - first:
+      213: 7953596582151895532
+    second: PACMAN-Character-Sprite_41
+  - first:
+      213: 3934257896044486590
+    second: PACMAN-Character-Sprite_42
+  - first:
+      213: -5657385941564835809
+    second: PACMAN-Character-Sprite_43
+  - first:
+      213: 5948223698725013879
+    second: PACMAN-Character-Sprite_44
+  - first:
+      213: -118001740332074589
+    second: PACMAN-Character-Sprite_45
+  - first:
+      213: -4634698311022376844
+    second: PACMAN-Character-Sprite_46
+  - first:
+      213: 2961518601551286362
+    second: PACMAN-Character-Sprite_47
+  - first:
+      213: 3470967355147230890
+    second: PACMAN-Character-Sprite_48
+  - first:
+      213: -8430122924999459991
+    second: PACMAN-Character-Sprite_49
+  - first:
+      213: 2073338071903941688
+    second: PACMAN-Character-Sprite_50
+  - first:
+      213: 5796616124296647032
+    second: PACMAN-Character-Sprite_51
+  - first:
+      213: 7690873643983483570
+    second: PACMAN-Character-Sprite_52
+  - first:
+      213: 2956499636165092846
+    second: PACMAN-Character-Sprite_53
+  - first:
+      213: 8214407933600855118
+    second: PACMAN-Character-Sprite_54
+  - first:
+      213: 681749356898286304
+    second: PACMAN-Character-Sprite_55
+  - first:
+      213: 6709520848120225444
+    second: PACMAN-Character-Sprite_56
+  - first:
+      213: 3427450036704969267
+    second: PACMAN-Character-Sprite_57
+  - first:
+      213: -865974933195959901
+    second: PACMAN-Character-Sprite_58
+  - first:
+      213: -8086691953278009266
+    second: PACMAN-Character-Sprite_59
+  - first:
+      213: 4862642185625634458
+    second: PACMAN-Character-Sprite_60
+  - first:
+      213: 1464702169593876339
+    second: PACMAN-Character-Sprite_61
+  - first:
+      213: -8540184024833334264
+    second: PACMAN-Character-Sprite_62
+  - first:
+      213: 8642560818457008945
+    second: PACMAN-Character-Sprite_63
+  - first:
+      213: -3865902433894786990
+    second: PACMAN-Character-Sprite_64
+  - first:
+      213: -7073471833994753782
+    second: PACMAN-Character-Sprite_65
+  - first:
+      213: 5680803967080526355
+    second: PACMAN-Character-Sprite_66
+  - first:
+      213: -2803944759256988760
+    second: PACMAN-Character-Sprite_67
+  - first:
+      213: -7836693946571168715
+    second: PACMAN-Character-Sprite_68
+  - first:
+      213: 2081248752212462519
+    second: PACMAN-Character-Sprite_69
+  - first:
+      213: 9145810947934873770
+    second: PACMAN-Character-Sprite_70
+  - first:
+      213: -6863019376907936191
+    second: PACMAN-Character-Sprite_71
+  - first:
+      213: -7986175776099515397
+    second: PACMAN-Character-Sprite_72
+  - first:
+      213: -6764781560780652908
+    second: PACMAN-Character-Sprite_73
+  - first:
+      213: -4485650498804142220
+    second: PACMAN-Character-Sprite_74
+  - first:
+      213: 6875736925692856753
+    second: PACMAN-Character-Sprite_75
+  - first:
+      213: 1017718078811176752
+    second: PACMAN-Character-Sprite_76
+  - first:
+      213: 3938348657945396062
+    second: PACMAN-Character-Sprite_77
+  - first:
+      213: -3645900671587387040
+    second: PACMAN-Character-Sprite_78
+  - first:
+      213: -3998371618569045450
+    second: PACMAN-Character-Sprite_79
+  - first:
+      213: 5975902489284241051
+    second: PACMAN-Character-Sprite_80
+  - first:
+      213: -5996286205325000725
+    second: PACMAN-Character-Sprite_81
+  - first:
+      213: -3936905294079156159
+    second: PACMAN-Character-Sprite_82
+  - first:
+      213: -3603942024764757077
+    second: PACMAN-Character-Sprite_83
+  - first:
+      213: -4466131133755931082
+    second: PACMAN-Character-Sprite_84
+  - first:
+      213: 8327711467898141126
+    second: PACMAN-Character-Sprite_85
+  - first:
+      213: -3025487233228129978
+    second: PACMAN-Character-Sprite_86
+  - first:
+      213: -7091171699082124684
+    second: PACMAN-Character-Sprite_87
+  - first:
+      213: -4751994457731426590
+    second: PACMAN-Character-Sprite_88
+  - first:
+      213: -1172405637740018810
+    second: PACMAN-Character-Sprite_89
+  - first:
+      213: 3870349243466862066
+    second: PACMAN-Character-Sprite_90
+  - first:
+      213: 7144376957941849552
+    second: PACMAN-Character-Sprite_91
+  - first:
+      213: -4108160607713245810
+    second: PACMAN-Character-Sprite_92
+  - first:
+      213: 7796323801221106205
+    second: PACMAN-Character-Sprite_93
+  - first:
+      213: -9177774256479990041
+    second: PACMAN-Character-Sprite_94
+  - first:
+      213: 8103518285249813903
+    second: PACMAN-Character-Sprite_95
+  - first:
+      213: 17819829605739744
+    second: PACMAN-Character-Sprite_96
+  - first:
+      213: -7047631197824687355
+    second: PACMAN-Character-Sprite_97
+  - first:
+      213: -2734628510697534863
+    second: PACMAN-Character-Sprite_98
+  - first:
+      213: -4890465924964442581
+    second: PACMAN-Character-Sprite_99
+  - first:
+      213: 8054567281216698352
+    second: PACMAN-Character-Sprite_100
+  - first:
+      213: -4618349391706784078
+    second: PACMAN-Character-Sprite_101
+  - first:
+      213: -4508468751588267595
+    second: PACMAN-Character-Sprite_102
+  - first:
+      213: -3532163206755230471
+    second: PACMAN-Character-Sprite_103
+  - first:
+      213: 7065149197441315726
+    second: PACMAN-Character-Sprite_104
+  - first:
+      213: -6487481112008033259
+    second: PACMAN-Character-Sprite_105
+  - first:
+      213: -1051514130682017809
+    second: PACMAN-Character-Sprite_106
+  - first:
+      213: -661053745183568481
+    second: PACMAN-Character-Sprite_107
+  - first:
+      213: 5275173563671134924
+    second: PACMAN-Character-Sprite_108
+  - first:
+      213: 5603408330039937936
+    second: PACMAN-Character-Sprite_109
+  - first:
+      213: 6964341423782252167
+    second: PACMAN-Character-Sprite_110
+  - first:
+      213: -2418626981963335077
+    second: PACMAN-Character-Sprite_111
+  - first:
+      213: 3609611062458065872
+    second: PACMAN-Character-Sprite_112
+  - first:
+      213: 7754737277150199890
+    second: PACMAN-Character-Sprite_113
+  - first:
+      213: 4152686292775854462
+    second: PACMAN-Character-Sprite_114
+  - first:
+      213: -8878338495277543185
+    second: PACMAN-Character-Sprite_115
+  - first:
+      213: -4397980048044371088
+    second: PACMAN-Character-Sprite_116
+  - first:
+      213: -1233738702709046024
+    second: PACMAN-Character-Sprite_117
+  - first:
+      213: 5950169676267021566
+    second: PACMAN-Character-Sprite_118
+  - first:
+      213: 1711793050657655962
+    second: PACMAN-Character-Sprite_119
+  - first:
+      213: -6215426468265623384
+    second: PACMAN-Character-Sprite_120
+  - first:
+      213: -7273512287598328280
+    second: PACMAN-Character-Sprite_121
+  - first:
+      213: 8731473495366578265
+    second: PACMAN-Character-Sprite_122
+  - first:
+      213: -6030744542776949211
+    second: PACMAN-Character-Sprite_123
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90997c9f9921de730800000000000000
+      internalID: 4029897694096365833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d9212b04bf82970800000000000000
+      internalID: 8730504132941749543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97ea87cbe85443d0800000000000000
+      internalID: -3223353663602104421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3f3be1e2f08b80800000000000000
+      internalID: -8394442653290250532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dff96fba5ffbc40800000000000000
+      internalID: 5530408986360151331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0cb8abda2699a30800000000000000
+      internalID: 4222514623935135987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1b4e8f9f1064b0800000000000000
+      internalID: -5449320778970752404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539415db95f8961a0800000000000000
+      internalID: -6815758945457452747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c171b3b01d545170800000000000000
+      internalID: 8166254350645162433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6119fbbde76c80800000000000000
+      internalID: -8329427594205107365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f832817fd5d6720800000000000000
+      internalID: 2841030255783939956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85019b56f23fce6c0800000000000000
+      internalID: -4112644974800465832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf322056d3b36d40800000000000000
+      internalID: 5576498496663601119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac526e7017bb2020800000000000000
+      internalID: 2318147714679987366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c996f66cb15f2ea0800000000000000
+      internalID: -5895403517581551162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c464cf8ff0d34cb0800000000000000
+      internalID: -4880827775092235063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5091c0cada92cd0800000000000000
+      internalID: -2582341956871322133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07b34cffd105230800000000000000
+      internalID: 3625430684379345098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0563a87bace34f3d0800000000000000
+      internalID: -3173842797005752752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b55b7eb61692700800000000000000
+      internalID: 516050748387449683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389737fd03ee6a6c0800000000000000
+      internalID: -4132353714391123581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee649f1d0595dad90800000000000000
+      internalID: -7084908435128891666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f354709848bf36d0800000000000000
+      internalID: -3008483404259503111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1db7137fd4dc2e0800000000000000
+      internalID: -2103939726829694530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113c5cce62152f490800000000000000
+      internalID: -7714013984109247727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acef9ef7dabb7e760800000000000000
+      internalID: 7487159259376516810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2646b16ccac3e0800000000000000
+      internalID: -2032587561762411373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96b0417ee918fc50800000000000000
+      internalID: 6699132957606590111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e2da56eca5a2310800000000000000
+      internalID: 1381016078258089547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d5095e5c9855ae0800000000000000
+      internalID: -1561190212761002678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa2a5aafde71e40800000000000000
+      internalID: 5627227920199232179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104773ef4ce63440800000000000000
+      internalID: 4915375871184289820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76075d65910500060800000000000000
+      internalID: 6917617097402314855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f50c5bba8b61070800000000000000
+      internalID: 8076846029363765032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ae77023a28fdf0800000000000000
+      internalID: -146320593527068514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3dd775035b3d820800000000000000
+      internalID: 2941894200833987494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db68e01bf0cc2ee0800000000000000
+      internalID: -1284439609154442280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799fa0c690fe3940800000000000000
+      internalID: 5277920343593294200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c53bdf6c9f0d810800000000000000
+      internalID: 1788203685121318021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d48fba142b63f0800000000000000
+      internalID: -906591202684119272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94a099bf9d63a20800000000000000
+      internalID: 3041858272962955688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9bce593f9d06e60800000000000000
+      internalID: 7953596582151895532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfd18c36ba499630800000000000000
+      internalID: 3934257896044486590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f183db3d57dec71b0800000000000000
+      internalID: -5657385941564835809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779801f50f55c8250800000000000000
+      internalID: 5948223698725013879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f0a8da06cc5ef0800000000000000
+      internalID: -118001740332074589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478886a117e3eafb0800000000000000
+      internalID: -4634698311022376844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a501d213a7d691920800000000000000
+      internalID: 2961518601551286362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae17866b6a5b2030800000000000000
+      internalID: 3470967355147230890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb78a4ddf220b80800000000000000
+      internalID: -8430122924999459991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b02bcdf9f5cc10800000000000000
+      internalID: 2073338071903941688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d00c37a7b17050800000000000000
+      internalID: 5796616124296647032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2bc0ac4d87bba60800000000000000
+      internalID: 7690873643983483570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5213041c8970920800000000000000
+      internalID: 2956499636165092846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44fd6a6e707ff170800000000000000
+      internalID: 8214407933600855118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf5c39d6f067900800000000000000
+      internalID: 681749356898286304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae984da9a10d1d50800000000000000
+      internalID: 6709520848120225444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332033326afb09f20800000000000000
+      internalID: 3427450036704969267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1567ae2607bf3f0800000000000000
+      internalID: -865974933195959901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40cadc738c46cf80800000000000000
+      internalID: -8086691953278009266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968b00fd439b7340800000000000000
+      internalID: 4862642185625634458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f0368ecdaa35410800000000000000
+      internalID: 1464702169593876339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804e75390eb2b7980800000000000000
+      internalID: -8540184024833334264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd6dd264b80f770800000000000000
+      internalID: 8642560818457008945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2581263083e895ac0800000000000000
+      internalID: -3865902433894786990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09030608daf5dd90800000000000000
+      internalID: -7073471833994753782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f6702c1546de40800000000000000
+      internalID: 5680803967080526355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34baee8136619d0800000000000000
+      internalID: -2803944759256988760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534eb2d40687e3390800000000000000
+      internalID: -7836693946571168715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb49d496b412ec10800000000000000
+      internalID: 2081248752212462519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8698eb9927cee70800000000000000
+      internalID: 9145810947934873770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e97c01d38a1c0a0800000000000000
+      internalID: -6863019376907936191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf342c7b1776b2190800000000000000
+      internalID: -7986175776099515397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7e86030bae12a0800000000000000
+      internalID: -6764781560780652908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fa93823a4cfb1c0800000000000000
+      internalID: -4485650498804142220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b985f00e468b6f50800000000000000
+      internalID: 6875736925692856753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f78095339af1e00800000000000000
+      internalID: 1017718078811176752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c876fc33d7a630800000000000000
+      internalID: 3938348657945396062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069fcafe7a8276dc0800000000000000
+      internalID: -3645900671587387040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a303b723ee288c0800000000000000
+      internalID: -3998371618569045450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e82ef6abaee250800000000000000
+      internalID: 5975902489284241051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef37084779e8cca0800000000000000
+      internalID: -5996286205325000725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ae006e7d4d59c0800000000000000
+      internalID: -3936905294079156159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6bcea2d93cfdc0800000000000000
+      internalID: -3603942024764757077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6364a2c756d1502c0800000000000000
+      internalID: -4466131133755931082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f30c3579f19370800000000000000
+      internalID: 8327711467898141126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64935fe146f4306d0800000000000000
+      internalID: -3025487233228129978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47228ea09e8179d90800000000000000
+      internalID: -7091171699082124684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e61b44c7368d0eb0800000000000000
+      internalID: -4751994457731426590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68347ddb847cabfe0800000000000000
+      internalID: -1172405637740018810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd4b85812e36b530800000000000000
+      internalID: 3870349243466862066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1c9f9dfce52360800000000000000
+      internalID: 7144376957941849552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85cff871b1ecf6c0800000000000000
+      internalID: -4108160607713245810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a05b5c03b123c60800000000000000
+      internalID: 7796323801221106205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee09cd80fef1a080800000000000000
+      internalID: -9177774256479990041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d923732fa757070800000000000000
+      internalID: 8103518285249813903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecab956a0f4f3000800000000000000
+      internalID: 17819829605739744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503e2b9f3c8c13e90800000000000000
+      internalID: -7047631197824687355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ac733bbd5ac0ad0800000000000000
+      internalID: -2734628510697534863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e975ce623912cb0800000000000000
+      internalID: -4890465924964442581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7b760744297cf60800000000000000
+      internalID: 8054567281216698352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2befca282b358efb0800000000000000
+      internalID: -4618349391706784078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9e1acae83be61c0800000000000000
+      internalID: -4508468751588267595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc56a4174c3bfec0800000000000000
+      internalID: -3532163206755230471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8330a623c37c0260800000000000000
+      internalID: 7065149197441315726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c74bffc46d7f5a0800000000000000
+      internalID: -6487481112008033259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7056428754861f0800000000000000
+      internalID: -1051514130682017809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d44e40f1773d6f0800000000000000
+      internalID: -661053745183568481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24627386e253940800000000000000
+      internalID: 5275173563671134924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bce73203e43cd40800000000000000
+      internalID: 5603408330039937936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e441350af46a060800000000000000
+      internalID: 6964341423782252167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a76e7039f4f6ed0800000000000000
+      internalID: -2418626981963335077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32223032ae71230800000000000000
+      internalID: 3609611062458065872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250840b977c5e9b60800000000000000
+      internalID: 7754737277150199890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e9807e2e41a930800000000000000
+      internalID: 4152686292775854462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe05e419d2ec9c480800000000000000
+      internalID: -8878338495277543185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0735f03a27c37f2c0800000000000000
+      internalID: -4397980048044371088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4406fbf21e0eee0800000000000000
+      internalID: -1233738702709046024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef462339bcf339250800000000000000
+      internalID: 5950169676267021566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8e69c5b281c710800000000000000
+      internalID: 1711793050657655962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0877fce8e5eb9a0800000000000000
+      internalID: -6215426468265623384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82643447c1b4f0b90800000000000000
+      internalID: -7273512287598328280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9503019f1ec6c2970800000000000000
+      internalID: 8731473495366578265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACMAN-Character-Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52687a46acd7e4ca0800000000000000
+      internalID: -6030744542776949211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
