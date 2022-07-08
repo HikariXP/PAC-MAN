@@ -102,7 +102,7 @@ public class PacMan : MonoBehaviour
 
     public void Respawn()
     {
-        anima.Play("pacman_" + currentDir);
+        //anima.Play("pacman_0" + currentDir);
     }
 
 
@@ -125,6 +125,7 @@ public class PacMan : MonoBehaviour
         RefreshDirCanChange();
     }
 
+    //需要添加无法索引时的报错，MapInfo.MAP[x,y]可能会获取不了，比如在边界的情况。
     public void RefreshDirCanChange()
     {
         CanMoveDirs.Clear();
