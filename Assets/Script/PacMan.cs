@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PacMan : MonoBehaviour
 {
-    static public PacMan Instance;
+    public static PacMan Instance;
 
     public float speed = 5f;
     //0:right - 1:up - 2:left - 3:down
@@ -42,14 +42,17 @@ public class PacMan : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+
+        rigid = GetComponent<Rigidbody2D>();
+        anima = GetComponent<Animator>();
     }
 
     private void Start()
     {
-        rigid = GetComponent<Rigidbody2D>();
-        anima = GetComponent<Animator>();
+        //rigid = GetComponent<Rigidbody2D>();
+        //anima = GetComponent<Animator>();
 
-        ReachGirdPos();
+        //ReachGirdPos();
     }
 
     private void Update()
@@ -58,13 +61,15 @@ public class PacMan : MonoBehaviour
         {
             if (Input.GetKey(keys[i])) nextDir = i % 4;
         }
-        RefreshCurrentGridPos();
+        //RefreshCurrentGridPos();
         
         ChangeDirAnimation();
     }
 
     private void FixedUpdate()
     {
+        //RefreshCurrentGridPos();
+
         if (canMove)
         {
             Move();
@@ -78,6 +83,11 @@ public class PacMan : MonoBehaviour
         }
         
         TryChangeDir();
+    }
+
+    private void LateUpdate()
+    {
+        RefreshCurrentGridPos();
     }
 
 
@@ -100,9 +110,18 @@ public class PacMan : MonoBehaviour
         anima.Play("pacman_Dead");
     }
 
+    /// <summary>
+    /// ≥‘∂π»À÷ÿ…˙
+    /// </summary>
     public void Respawn()
     {
-        //anima.Play("pacman_0" + currentDir);
+        nextDir = 0;
+
+        if (anima != null)
+        {
+            //anima.Play("pacman_" + currentDir);
+            anima.Play("pacman_0");
+        }
     }
 
 
