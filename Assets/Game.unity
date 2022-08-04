@@ -43,7 +43,7 @@ RenderSettings:
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 12
+  serializedVersion: 11
   m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -118,8 +118,6 @@ NavMeshSettings:
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
-    maxJobWorkers: 0
-    preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
@@ -175,8 +173,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -286,8 +282,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -365,12 +359,11 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -450,7 +443,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -552,8 +544,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -794,7 +784,6 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
 --- !u!223 &769277540
 Canvas:
   m_ObjectHideFlags: 0
@@ -937,8 +926,10 @@ MonoBehaviour:
   ccolld2d: {fileID: 0}
   renderer: {fileID: 0}
   NormalSprite: {fileID: 0}
-  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
-  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
+  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   aiStatus: 0
 --- !u!212 &801419571
 SpriteRenderer:
@@ -955,7 +946,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -980,7 +970,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7073471833994753782, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: -7073471833994753782, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1057,8 +1048,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1167,8 +1156,10 @@ MonoBehaviour:
   ccolld2d: {fileID: 0}
   renderer: {fileID: 0}
   NormalSprite: {fileID: 0}
-  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
-  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
+  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   aiStatus: 0
 --- !u!212 &977641884
 SpriteRenderer:
@@ -1185,7 +1176,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1210,7 +1200,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -3645900671587387040, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: -3645900671587387040, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1329,7 +1320,6 @@ TilemapRenderer:
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1507,8 +1497,10 @@ MonoBehaviour:
   ccolld2d: {fileID: 0}
   renderer: {fileID: 0}
   NormalSprite: {fileID: 0}
-  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
-  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
+  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   aiStatus: 0
 --- !u!212 &1012590296
 SpriteRenderer:
@@ -1525,7 +1517,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1550,7 +1541,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2956499636165092846, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: 2956499636165092846, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1629,12 +1621,11 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 384, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.618
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
 --- !u!223 &1029182969
 Canvas:
   m_ObjectHideFlags: 0
@@ -1747,12 +1738,11 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1822,8 +1812,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1963,12 +1951,11 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2041,7 +2028,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2066,7 +2052,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: 8730504132941749543, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2147,7 +2134,8 @@ MonoBehaviour:
   GridPosRoaming: {x: 0, y: 0}
   CanMoveDirs: 
   canMove: 0
-  texture: {fileID: -3223353663602104421, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  texture: {fileID: -3223353663602104421, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
 --- !u!1 &1431327489
 GameObject:
   m_ObjectHideFlags: 0
@@ -2202,8 +2190,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -2308,7 +2294,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
-    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -2339,7 +2324,6 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1993882630}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: StartGame
         m_Mode: 1
         m_Arguments:
@@ -2351,7 +2335,6 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1504582242}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
         m_Arguments:
@@ -2377,8 +2360,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.1509434, g: 0.1509434, b: 0.1509434, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -2539,8 +2520,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -2582,7 +2561,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 100, y: 100}
+  m_CellSize: {x: 50, y: 50}
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
@@ -2621,7 +2600,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2646,7 +2624,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7953596582151895532, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  m_Sprite: {fileID: 7953596582151895532, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2697,8 +2676,10 @@ MonoBehaviour:
   ccolld2d: {fileID: 0}
   renderer: {fileID: 0}
   NormalSprite: {fileID: 0}
-  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
-  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416, type: 3}
+  NerfSprite: {fileID: 2073338071903941688, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
+  DeadSprite: {fileID: 8642560818457008945, guid: c6648c59f7eecee41a1e002cbd1fe416,
+    type: 3}
   aiStatus: 0
 --- !u!50 &1624349950
 Rigidbody2D:
@@ -2789,8 +2770,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -2868,14 +2847,12 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 989243aaf5f7aad428938a14a246293c, type: 3}
-    m_FontSize: 110
+    m_FontSize: 60
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 1
@@ -3073,8 +3050,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CollisionMap: {fileID: 991573027}
   CollisionTile: {fileID: 11400000, guid: f350aa5c59305724a905cff72c0e1f1a, type: 2}
-  DotPerfab: {fileID: 839883826190282655, guid: c4834532d1d9eb64d81635715f4618bb, type: 3}
-  PowerDotPerfab: {fileID: 5157616084433318121, guid: b3f241aead3c45e4d8a3e662002c2740, type: 3}
+  DotPerfab: {fileID: 839883826190282655, guid: c4834532d1d9eb64d81635715f4618bb,
+    type: 3}
+  PowerDotPerfab: {fileID: 5157616084433318121, guid: b3f241aead3c45e4d8a3e662002c2740,
+    type: 3}
   DOTS: {fileID: 990152440}
   Vector2Offset: {x: 0.5, y: 0.5}
 --- !u!1 &1993882628
@@ -3192,8 +3171,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.21568628, g: 0.21568628, b: 0.21568628, a: 0.392}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
