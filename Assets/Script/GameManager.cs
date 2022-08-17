@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
     //单例引用
     public static GameManager Instance;
     //分数
-    public float Score = 0f;
+    public int Score = 0;
     //最大生命值
     public int MaxLives = 3;
     //生命值
@@ -78,7 +78,7 @@ public class GameManager : MonoBehaviour
         //dots
         TilemapManager.Instance.SetDots();
         //score
-        Score = 0f;
+        Score = 0;
 
         isWin = false;
     }

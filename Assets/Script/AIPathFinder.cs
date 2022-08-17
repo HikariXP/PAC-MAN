@@ -140,6 +140,7 @@ public class AIPathFinder : MonoBehaviour
 
     public void ResearchPath()
     {
+        //如果可以提前获取到位置究竟
         RoundGridPos.Clear();
         RoundGridPos.Add(new Vector2Int(CurrentGridPos.x + 1, CurrentGridPos.y));
         RoundGridPos.Add(new Vector2Int(CurrentGridPos.x - 1, CurrentGridPos.y));

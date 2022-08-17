@@ -11,7 +11,7 @@ public class Dot : MonoBehaviour
             if (GameManager.Instance != null)
             {
                 GameManager.Instance.DotRemain -= 1;
-                GameManager.Instance.Score += 100f;
+                GameManager.Instance.Score += 100;
             }
             Destroy(gameObject);
         }

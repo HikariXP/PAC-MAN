@@ -11,7 +11,7 @@ public class PowerDot : MonoBehaviour
             if (GameManager.Instance != null)
             {
                 GameManager.Instance.DotRemain -= 1;
-                GameManager.Instance.Score += 150f;
+                GameManager.Instance.Score += 150;
                 AIPathGuider.Instance.OnNerf();
             }
             Destroy(gameObject);

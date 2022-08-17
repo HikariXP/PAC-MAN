@@ -19,6 +19,7 @@ public class MapInfo : MonoBehaviour
         DOTMAP = LoadMapText(DotText);
     }
 
+    //¥ÛGC = 67.8kb
     public int[,] LoadMapText(TextAsset textAsset)
     {
         // Read in the map data as ana array of lines

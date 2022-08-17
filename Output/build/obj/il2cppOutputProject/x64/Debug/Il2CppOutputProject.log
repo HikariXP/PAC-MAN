@@ -1,0 +1,20 @@
+﻿  il2cpp.exe didn't catch exception: System.InvalidOperationException: C++ code builder is unable to build C++ code. In order to build C++ code for Windows Desktop, you must have one of these installed:
+          Visual Studio 2015 with C++ compilers and Windows 10 SDK (it cannot build C++ code because it is not installed or missing C++ workload component)
+          Visual Studio 2015 installation is found by looking at "SOFTWARE\Microsoft\VisualStudio\14.0_Config\InstallDir" in the registry
+          Windows 10 SDK is found by looking at "SOFTWARE\Wow6432Node\Microsoft\Microsoft SDKs\Windows\v10.0\InstallationFolder" in the registry
+  
+          Visual Studio 2017 (or newer) with C++ compilers and Windows 10 SDK (it cannot build C++ code because it is not installed or missing C++ workload component)
+          Visual Studio 2017 (or newer) installation is found using Microsoft.VisualStudio.Setup.Configuration COM APIs
+          Windows 10 SDK is found by looking at "SOFTWARE\Wow6432Node\Microsoft\Microsoft SDKs\Windows\v10.0\InstallationFolder" in the registry
+  
+  
+     在 Unity.IL2CPP.Building.CppProgramBuilder.ThrowIfCannotBuildInCurrentEnvironment()
+     在 Unity.IL2CPP.Building.CppProgramBuilder.Build(IBuildStatistics& statistics)
+     在 il2cpp.Program.DoRun(String[] args, List`1 foundAssemblies)
+     在 il2cpp.Program.Run(String[] args, Boolean setInvariantCulture)
+     在 il2cpp.Program.Main(String[] args)
+  
+  
+     由于 Exception.ToString() 失败，因此无法打印异常字符串。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073: 命令“C:\Windows\System32\chcp.com 65001 >NUL 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073:  "C:\Users\peropero\Documents\GitClone\PAC-MAN\Output\Il2CppOutputProject\\IL2CPP\build\deploy\net471\il2cpp.exe" --libil2cpp-static --compile-cpp -architecture=x64 -configuration=Debug -platform=WindowsDesktop -outputpath="C:\Users\peropero\Documents\GitClone\PAC-MAN\Output\\build\bin\x64\Debug\GameAssembly.dll" --data-folder="C:\Users\peropero\Documents\GitClone\PAC-MAN\Output\\build\bin\x64\Debug\\" -cachedirectory="C:\Users\peropero\Documents\GitClone\PAC-MAN\Output\\build\obj\il2cppOutputProject\x64\Debug\\" -generatedcppdir="C:\Users\peropero\Documents\GitClone\PAC-MAN\Output\Il2CppOutputProject\\Source"  --incremental-g-c-time-slice=3 --profiler-report --additional-defines=UNITY_WIN=1 --additional-defines=UNITY_STANDALONE_WIN=1 --additional-defines=PLATFORM_WIN=1 --additional-defines=PLATFORM_STANDALONE_WIN=1 -dotnetprofile=unityaot -verbose --map-file-parser="C:\Users\peropero\Documents\GitClone\PAC-MAN\Output\Il2CppOutputProject\\IL2CPP\MapFileParser\MapFileParser.exe"”已退出，代码为 -532462766。
